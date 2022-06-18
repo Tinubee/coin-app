@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985458578331",
+    "project_id": "crypto-app-fa4b2",
+    "storage_bucket": "crypto-app-fa4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985458578331:android:a13f4cc65437a42da9073e",
+        "android_client_info": {
+          "package_name": "com.cryproapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985458578331-5imlia0q1jqpe854f8lki03m9tctg13u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryproapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "985458578331-juf11vg85ok3msm0tcevqllko83m1i0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoII_YK_GRiCT5ZbXNc-I-RbkiHzG8Ohs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985458578331-juf11vg85ok3msm0tcevqllko83m1i0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

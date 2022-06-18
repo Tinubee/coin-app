@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985458578331-jdnj8amqg0s3913v31btmpik1sq0ic1s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985458578331-jdnj8amqg0s3913v31btmpik1sq0ic1s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>985458578331-5imlia0q1jqpe854f8lki03m9tctg13u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_vIVd1IqmjuhYKleP7-zJ2mUfLedkBnA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985458578331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.name.cryproApp</string>
+	<key>PROJECT_ID</key>
+	<string>crypto-app-fa4b2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crypto-app-fa4b2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985458578331:ios:8c8309168b62559fa9073e</string>
+</dict>
+</plist>
