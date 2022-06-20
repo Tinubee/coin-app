@@ -44,17 +44,23 @@ const Detail = ({
   return (
     <Container>
       {victoryData ? (
-        <VictoryChart height={360}>
+        <VictoryChart height={400} domainPadding={25}>
           <VictoryLine
             animate
             interpolation="cardinal"
             data={victoryData}
-            style={{ data: { stroke: "#1abc9c" } }}
+            style={{
+              data: { stroke: "#1abc9c" },
+              parent: { border: "1px solid #ccc" },
+            }}
           />
           <VictoryScatter
             animate
             data={victoryData}
-            style={{ data: { fill: "#1abc9c" } }}
+            style={{
+              data: { fill: "#1abc9c" },
+              parent: { border: "1px solid #ccc" },
+            }}
           />
         </VictoryChart>
       ) : null}

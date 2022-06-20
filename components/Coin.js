@@ -44,7 +44,7 @@ const Coin = ({ symbol, index, id }) => {
       <Wrapper style={{ opacity, transform: [{ scale }] }}>
         <Icon
           source={{
-            uri: `https://cryptoicon-api.vercel.app/api/icon/${symbol.toLowerCase()}`,
+            uri: `https://cryptocurrencyliveprices.com/img/${id}.png`,
           }}
         />
         <CoinName>{symbol}</CoinName>
